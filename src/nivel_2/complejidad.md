@@ -1,9 +1,6 @@
 # Complejidad Algorítmica 
 ## Algoritmos  
-Entendemos un algoritmo como _una serie de pasos o instrucciones finitas que nos ayudan a obtener un resultado específico_. Los ejemplos más comunes para entender esto serían:
-
-La serie de pasos a seguir para llegar a un lugar determinado.
-Cómo preparar un sándwich.
+Entendemos un algoritmo como _una serie de pasos o instrucciones finitas que nos ayudan a obtener un resultado específico_. Los ejemplos más comunes para entender esto serían la serie de pasos a seguir para llegar a un lugar determinado o cómo preparar un sándwich.
 En ambos casos, obtenemos un resultado (llegar al lugar o tener un sándwich).
 En programación, podemos tener varias formas de resolver un problema, por lo que nuestros algoritmos deben ser _eficaces_. Sin embargo, a veces los algoritmos que creamos no son _eficientes_...
 
@@ -18,7 +15,7 @@ Pero, **¿cómo conocemos la eficiencia de un algoritmo?** Bueno, para esto, en 
 
 ## Notación Asintótica
 
-La Notación Asintótica es la manera de expresar y analizar la eficiencia (especialmente temporal y espacial) de un algoritmo en función de una entrada _n_. Es decir, describe cómo se comporta la función _T(n)_ de algún recurso, para conocer cuánto de este recurso se utiliza. Por lo que para expresar el comportamiento de _T(n)_  utilizamos las siguientes **notaciones asintóticas**:
+La Notación Asintótica es la manera de expresar y analizar la eficiencia (especialmente temporal y espacial) de un algoritmo en función de una entrada de  tamaño _n_. Es decir, describe cómo se comporta la función _T(n)_ de algún recurso, para conocer cuánto de este recurso se utiliza. Por lo que para expresar el comportamiento de _T(n)_  utilizamos las siguientes **notaciones asintóticas**:
 
 |Notación|Características |Definición Formal|
 |----|----|----|
@@ -36,7 +33,7 @@ No olvides que son _notaciones_ que nos ayudan a describir el comportamiento asi
 De igual forma, podemos señalar que igualar estas expresiones como \\(T(n) = O(n^2)\\) es  un abuso de lenguaje, es decir, que la complejidad sea de \\(O(n^2)\\) no implica que su comportamiento sea exactamente igual a \\(n^2\\), estas notaciones solo nos ayudan a tener una idea del comportamiento general del algoritmo.
 ```
 
-Dado que nos concentramos en programación competitiva, haremos un énfasis especial en la **notación O Grande (_Big O notation_)**, especialmente en el contexto de **tiempo** y **memoria**. Esto se debe a que, en las competencias, el tamaño de las entradas n suele ser muy grande, lo que afecta directamente la eficiencia de nuestro programa. Además, existe un límite de tiempo (en segundos) para cada caso de prueba. Por ello, es conveniente calcular, de forma teórica, cuánto tiempo tomaría o cuánta memoria consumiría nuestro algoritmo con la entrada más grande posible.
+Dado que nos concentramos en programación competitiva, haremos un énfasis especial en la **notación O Grande (_Big O notation_)**, especialmente en el contexto de **tiempo** y **memoria**. Esto se debe a que, en las competencias, el tamaño de las entradas _n_ suele ser muy grande, lo que afecta directamente la eficiencia de nuestro programa. Además, existe un límite de tiempo (en segundos) para cada caso de prueba. Por ello, es conveniente calcular, de forma teórica, cuánto tiempo tomaría o cuánta memoria consumiría nuestro algoritmo con la entrada más grande posible.
 
 Asimismo, debemos tener en cuenta que un juez virtual suele realizar aproximadamente \\( 10^8 \\) operaciones por segundo, lo que nos ayudará a estimar si nuestro algoritmo es lo suficientemente eficiente para cumplir con los límites de tiempo establecidos.
 

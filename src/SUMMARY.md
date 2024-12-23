@@ -1,7 +1,6 @@
 # Summary
 
-# Bases de Programacion
-- [**Nivel 1**](./nivel_1/nivel_1.md)
+- [**Nivel 1: Bases de Programacion**](./nivel_1/nivel_1.md)
     - [Estructura basica de un Programa y compilacion](./nivel_1/estructuraB.md)
 
     - [Tipos de Datos](./nivel_1/tiposDeDatos.md)
@@ -22,8 +21,7 @@
 
 
 
-# Estructuras de Datos y Algoritmos
-- [**Nivel 2**](./nivel_2/nivel_2.md)
+- [**Nivel 2: Estructuras de Datos y Algoritmos**](./nivel_2/nivel_2.md)
 
     - [Complejidad Algoritmica \(O\) ](./nivel_2/complejidad.md)
 
@@ -60,5 +58,4 @@
 
 
 
-# Especializacion en temas avanzados
-- [**Nivel 3**](./nivel_3/nivel_3.md)
+- [**Nivel 3: Especializacion en temas avanzados**](./nivel_3/nivel_3.md)

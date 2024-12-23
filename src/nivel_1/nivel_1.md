@@ -1,6 +1,6 @@
 #  _Bases de Programación_
 <p style="font-size : 20px">
-A lo largo de esta sección, nos enfocaremos en aprender conceptos clave de programación, así como la implementación de los mismos en el lenguaje C++. La razón de usar el lenguaje C++ se debe a su eficiencia, así como al uso de herramientas y funcionalidades que nos ofrece la Biblioteca Estándar (STL). No obstante, cabe aclarar que esto no es una limitante para hacer uso de Python, Java, C o Kotlin, ya que son los lenguajes permitidos para el ICPC.<br><br>
+A lo largo de esta sección, nos enfocaremos en aprender conceptos clave de programación, así como la implementación de los mismos en el lenguaje C++. La razón de usar este lenguaje se debe a su eficiencia, así como al uso de herramientas y funcionalidades que nos ofrece la Biblioteca Estándar (STL). No obstante, cabe aclarar que esto no es una limitante para hacer uso de Python, Java, C o Kotlin, ya que son los lenguajes permitidos para el ICPC.<br><br>
 Este enfoque forma parte de la preparación de los integrantes de futuros equipos que se planea representen a la UAM-Iztapalapa en la competencia ICPC, con el objetivo de desarrollar sus habilidades técnicas y de trabajo en equipo, que son cruciales durante la competencia.<br><br>
 Sin más que agregar, esperamos que el material sea de tu agrado. En caso de que desees realizar alguna aclaración o sugerencia de mejora, nuestros canales de contacto estarán siempre disponibles para atender tus inquietudes.<br><br>
 <img src="../pictures/ICPC.jpg" alt="ICPC Mexico Finals 2024">
