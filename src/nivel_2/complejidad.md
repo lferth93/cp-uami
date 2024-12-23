@@ -60,7 +60,7 @@ xychart-beta
 ```
 ## Algunos ejemplos
 
-<p style="font-size: 40px">
+<p style="font-size: 40px" align="center">
     Aquí habrá ejemplos en cuanto encuentre uno bueno.<br><br>
     <img src="https://raw.githubusercontent.com/scraly/gophers/main/yoda-gopher.png" alt="El Luis"+>
 </p>
