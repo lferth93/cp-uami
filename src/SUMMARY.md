@@ -1,7 +1,7 @@
 # Summary
 
 - [**Nivel 1: Bases de Programacion**](./nivel_1/nivel_1.md)
-    - [Estructura basica de un Programa y compilacion](./nivel_1/estructuraB.md)
+    - [Estructura Básica de un programa y Compilación](./nivel_1/estructuraB.md)
 
     - [Tipos de Datos](./nivel_1/tiposDeDatos.md)
 

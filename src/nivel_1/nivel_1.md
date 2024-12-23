@@ -12,7 +12,7 @@ Contenido de la sección:
 </p>
 
 <ol>
-    <li><a href="./estructuraB.md">Estructura basica de un programa y compilacion.</a></li>
+    <li><a href="./estructuraB.md">Estructura Básica de un programa y Compilación.</a></li>
     <li><a href="./tiposDeDatos.md">Tipos de datos.</a></li>
     <li><a href="./in-Out.md">Entrada/Salida y subida a un juez online.</a></li>
     <li><a href="./condicionales.md">Estructuras condicionales</a></li>
