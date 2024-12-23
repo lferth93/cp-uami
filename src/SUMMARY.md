@@ -25,7 +25,7 @@
 # Estructuras de Datos y Algoritmos
 - [**Nivel 2**](./nivel_2/nivel_2.md)
 
-    - [Complejidad Algoritmica](./nivel_2/complejidad.md)
+    - [Complejidad Algoritmica \(O\) ](./nivel_2/complejidad.md)
 
     - [Recursividad](./nivel_2/recursividad.md)
     

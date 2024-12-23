@@ -1,1 +1,1 @@
-# Estructura basica de un Programa y compilacion
+# Estructura básica de un programa y compilación
