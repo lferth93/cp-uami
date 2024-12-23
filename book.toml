@@ -3,7 +3,7 @@ authors = ["lsvp"]
 language = "es"
 multilingual = false
 src = "src"
-title = "CP UAM-I"
+title = "Club de Algoritmos y Programación Competitiva UAM-I"
 
 # opciones para mdbook-admonish
 [preprocessor.admonish]
@@ -15,5 +15,6 @@ assets_version = "3.0.2" # do not edit: managed by `mdbook-admonish install`
 command = "mdbook-mermaid"
 
 [output.html]
+mathjax-support = true
 additional-css = ["./mdbook-admonish.css"]
 additional-js = ["mermaid.min.js", "mermaid-init.js"]
